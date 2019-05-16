@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Prakash
+  description: Install Opnejdk 1.8
+  license: GPLv3
+  min_ansible_version: 1.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - saucy
+        - trusty
+  categories:
+    - development
+    - system
+
+dependencies: []
